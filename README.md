@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @remace
 - 👀 I’m interested in Python, Wagtail, math, technologies/DIY, archery and teaching
-- 🌱 I’m currently learning django and flask, and i'll learn wagtail just later 
+- 🌱 I’m currently learning django and flask, and i'll learn Wagtail, and Vue.js just later 
 - 💞️ I’m looking to collaborate on whatever sounds nice and fresh
 - 📫 How to reach me: by my e-mail address.
 
